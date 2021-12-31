@@ -8,7 +8,7 @@
   "files": [
     "dist"
   ],
-  "repository": "https://github.com/KrNel/polycub-uikit",
+  "repository": "https://github.com/CubFinance/polycub-uikit",
   "license": "MIT",
   "scripts": {
     "rmDistWin": "rmdir /s /q dist",
